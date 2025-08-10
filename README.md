@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tari 👋
 
-<!--
-**tariro27/tariro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Automation Test Engineer | QA + DevOps Enthusiast**  
+Passionate about building scalable, maintainable automation frameworks and integrating them into CI/CD pipelines.  
+Currently sharpening my skills in Selenium, API automation, AWS, DevOps tooling, and React.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript, Python, SQL  
+**Testing:** Selenium WebDriver, TestNG, REST Assured, Postman
+**DevOps & CI/CD:** Jenkins, GitHub Actions,
+**Tools & IDEs:** Eclipse, IntelliJ IDEA, VS Code, Rally, GitHub Copilot  
+**Cloud:** AWS (EC2, S3, Lambda)
+
+---
+
+### 📌 Featured Projects
+- [UI Test Automation Framework](#) – Selenium + Java + TestNG automation for web apps  
+- [API Test Automation](#) – REST Assured + Postman + Newman for API testing  
+- [CI/CD Integration Demo](#) – GitHub Actions pipeline for automated tests  
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/tarironangati) • [Email](mailto:tarironangati@hotmail.com) • [Resume PDF](#) 
+
+---
+
