@@ -2,7 +2,7 @@
 
 🚀 **Automation Test Engineer | QA + DevOps Enthusiast**  
 Passionate about building scalable, maintainable automation frameworks and integrating them into CI/CD pipelines.  
-Currently sharpening my skills in Selenium, API automation, AWS, DevOps tooling, and React.  
+Currently sharpening my skills in Playwright,TypeScript, Selenium, API automation, AWS, DevOps tooling, and React.  
 
 ---
 
