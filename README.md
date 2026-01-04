@@ -8,7 +8,7 @@ Currently sharpening my skills in Selenium, API automation, AWS, DevOps tooling,
 
 ### 🛠 Tech Stack
 **Languages:** Java, JavaScript, Python, TypeScript, SQL  
-**Testing:** Selenium WebDriver, TestNG, REST Assured, Postman
+**Testing:** Selenium WebDriver, TestNG, REST Assured, Postman, Playwright (Java)
 **DevOps & CI/CD:** Jenkins, GitHub Actions,
 **Tools & IDEs:** Eclipse, IntelliJ IDEA, VS Code, Rally, GitHub Copilot  
 **Cloud:** AWS (EC2, S3, Lambda)
