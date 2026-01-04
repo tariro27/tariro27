@@ -21,6 +21,9 @@ Currently sharpening my skills in Selenium, API automation, AWS, DevOps tooling,
 - [![API Automation Tests](https://github.com/tariro27/api-test-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/tariro27/api-test-automation/actions/workflows/ci.yml) – REST Assured + Postman + Newman for API testing  
 - [![Maven CI](https://github.com/tariro27/ci-cd-pipeline-demo/actions/workflows/.ci.yml/badge.svg)](https://github.com/tariro27/ci-cd-pipeline-demo/actions/workflows/.ci.yml) – GitHub Actions pipeline for automated tests
 - [![Patterns CI](https://github.com/tariro27/patterns/actions/workflows/ci.yml/badge.svg?event=project)](https://github.com/tariro27/patterns/actions/workflows/ci.yml)
+- [![Playwright CI](https://github.com/tariro27/playwright-java-framework/actions/workflows/ci.yml/badge.svg)](
+https://github.com/tariro27/playwright-java-framework/actions/workflows/ci.yml
+) - UI automation framework using Java, Playwright, TestNG, and GitHub Actions.
 
 ---
 
